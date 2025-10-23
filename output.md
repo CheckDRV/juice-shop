@@ -12,4 +12,5 @@ npm start
 
 accessed localhost:3000
 
+<img width="1775" height="962" alt="image" src="https://github.com/user-attachments/assets/8f79dd48-74d4-4a46-8a36-823d4497a609" />
 
